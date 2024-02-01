@@ -1,2 +1,2 @@
 td-ameritrade-python-api==3.0
-scikit-learn==0.23.2
+scikit-learn==1.0.1
